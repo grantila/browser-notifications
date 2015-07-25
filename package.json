@@ -1,0 +1,22 @@
+{
+  "name": "browser-notifications",
+  "description": "Browser notifications with a nice promisified API",
+  "license": "MIT",
+  "version": "0.0.0",
+  "author": "Gustaf Räntilä <g.rantila@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grantila/browser-notifications.git"
+  },
+  "keywords": [
+    "browser",
+    "desktop",
+    "notifications",
+    "notification",
+    "native",
+    "notify",
+    "promise",
+    "promises",
+    "promisified"
+  ]
+}
